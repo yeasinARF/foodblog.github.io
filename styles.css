@@ -1,0 +1,158 @@
+
+*{margin: 0;padding: 0;}
+
+.myDiv {
+  
+  text-align: left ;
+  pad: 5px; 
+  
+  top: 0;
+  width: 100%;
+
+
+}
+.as  {
+  height: 2vh;
+  display: flex;
+  justify-content: right;
+  float:right;
+  margin-right: 10px;
+  margin-top: 14px;
+}
+.f{
+  height: 45px;
+  width: 45px;
+  border-radius: 50px;
+  text-align: center;
+  line-height: 60px;
+  background-color: #f5f6fa ;
+  margin: 2px;
+  box-shadow: 1px 4px 2px 2px #dcdde1;
+}
+.in{
+  height: 45px;
+  width: 45px;
+  border-radius: 50px;
+  background-color:#f5f6fa ;
+  text-align: center;
+  line-height: 60px;
+  margin: 2px;
+  box-shadow: 1px 4px 2px 2px #dcdde1;
+}
+.y{
+  height: 45px;
+  width: 45px;
+  border-radius: 50px;
+  background-color: #f5f6fa ;
+  text-align: center;
+  line-height: 60px;
+  margin: 2px;
+  
+  box-shadow: 1px 4px 2px 2px #dcdde1;
+}
+.lin{
+  height: 45px;
+  width: 45px;
+  border-radius: 50px;
+  background-color: #f5f6fa ;
+  text-align: center;
+  line-height: 60px;
+  margin: 2px;
+  
+  box-shadow: 1px 4px 2px 2px #dcdde1;
+}
+.f:hover{
+  transform: scale(1.1);
+}
+.in:hover{
+  transform: scale(1.1);
+}
+.y:hover{
+  transform: scale(1.1);
+}
+.lin:hover{
+  transform: scale(1.1);
+}
+.fa-facebook{
+  color:#3b5998; 
+}
+.fa-instragram{
+  color:#f14b9b ; 
+}
+.fa-linkedin{
+  color:#0097e6; 
+}
+.fa-youtube{
+  color: #e84118;
+}
+
+
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position:absolute;
+  top: 70px;
+  width: 100%;
+}
+ol{
+  margin-left: 23px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li {
+  float: left;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align:center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(8, 184, 22);
+  
+}
+
+
+body {
+    background-color: rgb(245, 245, 245);
+    
+  }
+  h1 {
+    
+    text-align: left;
+    margin-left: 7px;
+    margin-top: 2px;
+
+   
+    color: rgb(173, 135, 9);
+    font-family:Brush Script MT,
+    Lucida Handwriting,cursive;
+    font-size: 3rem;
+   
+    
+    
+    
+  }
+  .intro{
+    margin-left: 7px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  p {
+    color: rgb(0, 0, 0);
+    margin-left: 4px;
+    margin-top: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
